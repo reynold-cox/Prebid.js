@@ -89,7 +89,7 @@ const helper = (() => {
         }
       }
       return pbjsBids;
-    },
+    },//HI
 
     getUrl: state => {
       // Bounce if the tag is invalid
